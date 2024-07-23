@@ -35,4 +35,4 @@ To run the ReEarth app locally, follow these steps:
 ## Usage
 To start the ReEarth app, run the following command:
 ```bash
-python main.py
+python CoriaGenesisFinalProject.py
